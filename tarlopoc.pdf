@@ -6,18 +6,7 @@ endobj
 << /Type /Pages /Kids [4 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Action /S /URI /URI (https://TU_COLLABORATOR/?p=7001)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=4848)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=8080)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=8443)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=9200)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=6379)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=5432)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=3306)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=27017)
-/Next << /Type /Action /S /URI /URI (https://y65946cfpifovse6y6jl2vzsvj1ap5du.oastify.com/?p=9090)
->>>>>>>>>>>>>>>>>>>>
->>
+<< /Type /Action /S /URI /URI (http://127.0.0.1:7001/) >>
 endobj
 4 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] >>
@@ -28,9 +17,9 @@ xref
 0000000009 00000 n
 0000000058 00000 n
 0000000115 00000 n
-0000000266 00000 n
+0000000206 00000 n
 trailer
 << /Size 5 /Root 1 0 R >>
 startxref
-333
+270
 %%EOF
